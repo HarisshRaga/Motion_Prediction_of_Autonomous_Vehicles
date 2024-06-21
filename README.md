@@ -11,7 +11,7 @@ compared to FCN, RNN outperformed LSTM by a slight margin.
 
 # Process Overview:
 
-1. The dataset acquired from IND was too huge to be
+1. The dataset acquired from inD was too huge to be
 processed completely by a normal computer. Since actual
 data is not required to provide a good prediction, every 5th
 frame was skipped to reduce the dataset size without losing
